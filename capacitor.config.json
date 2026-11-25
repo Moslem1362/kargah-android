@@ -1,0 +1,8 @@
+{
+  "appId": "io.github.moslem1362.kargah",
+  "appName": "کارگاه",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
